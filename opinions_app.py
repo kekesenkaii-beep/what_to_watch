@@ -1,5 +1,5 @@
 # what_to_watch/opinions_app.py
-
+import os
 from datetime import datetime
 from random import randrange
 
