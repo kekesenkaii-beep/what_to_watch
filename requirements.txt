@@ -15,3 +15,4 @@ typing_extensions==4.16.0
 Werkzeug==3.1.9
 WTForm==1.0
 WTForms==3.2.2
+requests==2.32.3
